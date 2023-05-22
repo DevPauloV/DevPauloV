@@ -31,11 +31,10 @@
 
 ## Conhecimentos em desenvolvimento de "Circuitos Digitais".
 
-
 <div style="display: inline_block"><br/>
 
   <img align="center" alt="html5" src="https://static.freedownloadmanager.org/icon/48/6060/6060028.png" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img align="center" alt="html5" src="http://3.bp.blogspot.com/-xy3pihBkqP4/UjRiy1QNlWI/AAAAAAAAATY/m_ZSUvuV_eg/s1600/isis.png" />
+  <img align="center" alt="html5" src="http://3.bp.blogspot.com/-xy3pihBkqP4/UjRiy1QNlWI/AAAAAAAAATY/m_ZSUvuV_eg/s1600/isis.png" style="width: 50px" />
     
 </div>
