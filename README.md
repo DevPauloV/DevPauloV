@@ -34,7 +34,7 @@
 <div style="display: inline_block"><br/>
 
   <img align="center" alt="html5" src="https://static.freedownloadmanager.org/icon/48/6060/6060028.png" style="width: 50px" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="width: 50px"/>
+  <img align="center" alt="html5" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489713252/arduino-ide.png" style="width: 50px"/>
   <img align="center" alt="html5" src="http://3.bp.blogspot.com/-xy3pihBkqP4/UjRiy1QNlWI/AAAAAAAAATY/m_ZSUvuV_eg/s1600/isis.png" style="width: 50px" />
     
 </div>
