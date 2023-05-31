@@ -29,12 +29,4 @@
 </div>
 
 
-## Conhecimentos em desenvolvimento de "Circuitos Digitais".
 
-<div style="display: inline_block"><br/>
-
-  <img align="center" alt="html5" src="https://static.freedownloadmanager.org/icon/48/6060/6060028.png" style="width: 50px" />
-  <img align="center" alt="html5" src="https://1.bp.blogspot.com/-UHSWP1qiXe4/Xj140QGRapI/AAAAAAAABv4/RQ1VV9dO2g8f-Umylanz8Z5c8NgW5UVIACLcBGAsYHQ/s1600/logo%2B1.png" style="width: 50px"/>
-  <img align="center" alt="html5" src="http://3.bp.blogspot.com/-xy3pihBkqP4/UjRiy1QNlWI/AAAAAAAAATY/m_ZSUvuV_eg/s1600/isis.png" style="width: 50px" />
-    
-</div>
