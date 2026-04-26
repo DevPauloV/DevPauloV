@@ -1,4 +1,8 @@
-###  Oi! eu sou o Paulo Victor ✋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5acec0a1-e166-46b1-a79d-772021ab83b6" />
+</p>
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_canalli/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-o-canalle-434492236)
