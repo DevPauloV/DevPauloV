@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5acec0a1-e166-46b1-a79d-772021ab83b6" alt="Banner Paulo Victor" width="100%" />
-</p>
-
 <h1 align="center">Olá, eu sou Paulo Victor 👋</h1>
 
 <p align="center">
