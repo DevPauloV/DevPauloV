@@ -80,6 +80,8 @@ Gosto de entender os problemas por trás de cada funcionalidade e encontrar solu
   <img src="https://streak-stats.demolab.com/?user=DevPauloV&theme=radical&hide_border=true&card_width=850" alt="Estatísticas de contribuições do GitHub" width="100%" />
 </p>
 
+
+<!--
 ## 📌 Projetos
 
 Confira meus repositórios públicos para conhecer alguns dos projetos que desenvolvi e minhas experiências com diferentes tecnologias.
@@ -89,6 +91,8 @@ Confira meus repositórios públicos para conhecer alguns dos projetos que desen
     <img src="https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios" />
   </a>
 </p>
+-->
+
 
 ## 📫 Contato
 
